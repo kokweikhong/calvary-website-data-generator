@@ -1,0 +1,114 @@
+[
+  {
+    "name": "sand and vanish",
+    "title": "Wood and timber",
+    "countries": [
+      "sg",
+      "my"
+    ],
+    "services": [
+      "maintenance"
+    ],
+    "thumbnail": "websites/products/thumbnails/Wood%20and%20Timber%20thumbnail.jpeg",
+    "logo": "",
+    "description": "Expert Wood Services: Comprehensive and efficient wood maintenance, ensuring stunning results with minimal dust for a pristine finish. Discover our exceptional wood care solutions."
+  },
+  {
+    "name": "accoya",
+    "title": "Treated timber Accoya®",
+    "countries": [
+      "sg",
+      "my"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "thumbnail": "websites/products/thumbnails/Accoya.jpg",
+    "logo": "",
+    "description": "Sustainable acetylated Pine: High Durability, Termite-Fungal-Water Resistance. Perfect for All Weather Conditions."
+  },
+  {
+    "name": "calvary composite",
+    "title": "Composite Decking",
+    "countries": [
+      "sg",
+      "my"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "thumbnail": "websites/products/thumbnails/Composite%20Decking.jpg",
+    "logo": "",
+    "description": "#1 Removable Decking in Singapore. Experience Lasting Beauty, Unmatched Durability, and Effortless Maintenance."
+  },
+  {
+    "name": "kandinsky",
+    "title": "engineered flooring",
+    "countries": [
+      "sg",
+      "my"
+    ],
+    "services": [
+      "interior"
+    ],
+    "thumbnail": "websites/products/thumbnails/Engineered%20Flooring.jpg",
+    "logo": "",
+    "description": "Where Art Meets Wood: Kandinsky® - Explore Our Timber. Experience the Beauty of Natural Patterns and a Broad Spectrum of Colors."
+  },
+  {
+    "name": "moso bamboo",
+    "title": "MOSO® Bamboo",
+    "countries": [
+      "my"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "thumbnail": "websites/products/thumbnails/MOSO%20Bamboo.jpeg",
+    "logo": "",
+    "description": "Discover reconstituted Bamboo, the fastest growing and sustainable material with high durability and class 0 fire rating. Available for outdoor and indoors."
+  },
+  {
+    "name": "osmo",
+    "title": "OSMO®",
+    "countries": [
+      "sg",
+      "my"
+    ],
+    "services": [
+      "maintenance"
+    ],
+    "thumbnail": "websites/products/thumbnails/Osmo%20Thumbnail.jpg",
+    "logo": "",
+    "description": "Seamless Wood Finishing Excellence: 140+ Years of Innovation. Unrivaled Coating Systems for Ultimate Protection, Beauty, and Maintenance Simplification."
+  },
+  {
+    "name": "silverwood",
+    "title": "Silverwood®",
+    "countries": [
+      "sg",
+      "my"
+    ],
+    "services": [
+      "maintenance"
+    ],
+    "thumbnail": "websites/products/thumbnails/Silverwood%20Thumbnail.jpg",
+    "logo": "",
+    "description": "Eco-friendly Silverwood Coating: Stunning Natural Finish, Enhanced Protection Against Fungi \u0026 Fire, Low Maintenance, and Solar Reflective - Transforming Wood Sustainability."
+  },
+  {
+    "name": "timber decking",
+    "title": "timber decking",
+    "countries": [
+      "sg",
+      "my"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "thumbnail": "websites/products/thumbnails/Timber%20Decking.jpg",
+    "logo": "",
+    "description": "Discover Unrivalled Woodwork and High-Performance Timbers. Endless Possibilities: Trellis, Benches, Cladding, Ceilings, Screens."
+  }
+]
