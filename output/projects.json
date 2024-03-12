@@ -1,0 +1,2266 @@
+[
+  {
+    "id": "1",
+    "name": "Vivo City",
+    "year": "2023",
+    "location": "Vivo city",
+    "completion": "Completed",
+    "size": "25,000 m2",
+    "imagePath": "projects/vivo-city",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Bamboo"
+    ],
+    "images": [
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_2944.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_2956.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_2960.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_2963.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_2965.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_2969.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_2982.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_2999.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_3000.jpg",
+      "projects/vivo-city/Viviocity SEP 2023_CC_IMG_3012.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "SOTA",
+    "year": "2021",
+    "location": "SOTA",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/sota",
+    "country": "Singapore",
+    "tags": [
+      "Flooring",
+      "Wall and Stairs"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "maintenance"
+    ],
+    "description": "",
+    "products": [
+      "OSMO"
+    ],
+    "images": [
+      "projects/sota/SOTA 2-2.jpg",
+      "projects/sota/WhatsApp-Image-2019-01-08-at-16.28.10.jpeg",
+      "projects/sota/concert-hall-03.jpeg",
+      "projects/sota/photo from SOTA #2.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "St Regis Hotel",
+    "year": "2023",
+    "location": "St Regis",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/st-regis-hotel",
+    "country": "Singapore",
+    "tags": [
+      "Stairs",
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "maintenance"
+    ],
+    "description": "",
+    "products": [
+      "Sand \u0026 Vanish"
+    ],
+    "images": [
+      "projects/st-regis-hotel-2/Copy of 05-cmsrs.jpeg",
+      "projects/st-regis-hotel-2/Copy of Kandinsky Brochure 2022.jpg",
+      "projects/st-regis-hotel-2/Copy of Kandinsky Brochure 20222.jpg",
+      "projects/st-regis-hotel-2/Copy of The_St 2 2.jpg",
+      "projects/st-regis-hotel-2/Copy of The_St 2.jpg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.46 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.46.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.47 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.47.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.48 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.48 (2).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.48.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.04.51.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.45 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.45.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.46 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.46.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.47 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.47.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.48 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.48.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.49 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.49.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.24.30 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.24.30.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.24.31.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.25.16.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.26.23.jpeg",
+      "projects/st-regis-hotel/2023-12-05.jpg",
+      "projects/st-regis-hotel/WhatsApp Image 2023-09-27 at 5.35.00 PM-2.jpg",
+      "projects/st-regis-hotel/WhatsApp Image 2023-09-27 at 5.35.00 PM.jpeg",
+      "projects/st-regis-hotel/WhatsApp Image 2023-09-27 at 5.35.00 PM.jpg",
+      "projects/st-regis-hotel/WhatsApp Image 2023-09-27 at 5.49.18 PM.jpeg",
+      "projects/st-regis-hotel/WhatsApp Image 2023-09-27 at 5.50.12 PM (1).jpeg",
+      "projects/st-regis-hotel/WhatsApp Image 2023-09-27 at 5.50.12 PM.jpeg",
+      "projects/st-regis-hotel/WhatsApp Image 2023-12-05 at 5.51.16 PM.jpeg",
+      "projects/st-regis-hotel/WhatsApp Image 2023-12-12 at 9.52.16 PM.jpeg",
+      "projects/st-regis-hotel/interior2.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "National Art Gallery",
+    "year": "2018",
+    "location": "National Art Gallery",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/national-art-gallery",
+    "country": "Singapore",
+    "tags": [
+      "Decking",
+      "Bench"
+    ],
+    "sectors": [
+      "Governmental"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Kampung Admiralty is Singaporeâ€™s first integrated public development that brings together a mix of public facilities and services under one roof. The traditional approach is for each government agency to carve out their own plot of land, resulting in several standalone buildings. This one-stop integrated complex, on the other hand, maximises land use, and is a prototype for meeting the needs of Singaporeâ€™s ageing population.",
+    "products": [
+      "Wood and Timber"
+    ],
+    "images": [
+      "projects/national-art-gallery/Level 1_IMG_3743.jpg",
+      "projects/national-art-gallery/Level 1_IMG_3750.jpg",
+      "projects/national-art-gallery/Roof top_IMG_3816.jpg",
+      "projects/national-art-gallery/Rooftop_IMG_3768.jpg",
+      "projects/national-art-gallery/Rooftop_IMG_3776.jpg",
+      "projects/national-art-gallery/Rooftop_IMG_3780.jpg",
+      "projects/national-art-gallery/Rooftop_IMG_3783.jpg",
+      "projects/national-art-gallery/tong garden_IMG_3768.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "N-Parks Montreal Green Park",
+    "year": "2022",
+    "location": "Montreal Green Park",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/n-parks-montreal-green-park",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "N-Parks Montreal's Green Park beckons visitors with its tranquil charm and natural allure. The rum-coloured decking, seamlessly integrated throughout the park, enhances the overall ambiance, inviting individuals to immerse themselves in the serene surroundings. With its warm and elegant tones, the decking provides an inviting space for visitors to unwind, relax, and connect with the park's abundant natural beauty.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/n-parks-montreal-green-park/N-Parks Montreal Green Park-2.jpg",
+      "projects/n-parks-montreal-green-park/N-Parks Montreal Green Park.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Outram Community Hospital",
+    "year": "2019",
+    "location": "Outram Community Hospital",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/outram-community-hospital",
+    "country": "Singapore",
+    "tags": [
+      "Trellis",
+      "Benches"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Outram Community Hospital's outdoor space features comfortable composite benches and trellis in the warm and inviting color of Havana. With their comfortable seating and timeless design, the Havana composite benches at Outram Community Hospital are a welcome addition to the hospital's facilities, providing patients and visitors with a beautiful and comfortable space to rest and relax.",
+    "products": [
+      "Wood and Timber",
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/outram-community-hospital/Outram Community Hospital.jpeg",
+      "projects/outram-community-hospital/balau and chengal bench.jpg",
+      "projects/outram-community-hospital/ce08e560-750f-445d-9498-f1d513c68eb8.jpg",
+      "projects/outram-community-hospital/och-3-1-1.jpg",
+      "projects/outram-community-hospital/photo from B+H Architects.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Kew Drive",
+    "year": "2021",
+    "location": "Kew Drive",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/kew-drive",
+    "country": "Singapore",
+    "tags": [
+      "Screens",
+      "Soffit",
+      "Cladding"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Accoya timber was elegantly utilized to clad the exterior roof, complemented by sliding screens for the balcony. The Accoya ceiling seamlessly extends from the exterior to the interior, creating a beautifully spacious interior ambiance.",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/kew-drive/398307420_18396469435053331_3439863441925840441_n.jpeg",
+      "projects/kew-drive/398331082_18396469423053331_4250471302244353192_n.jpeg",
+      "projects/kew-drive/398423377_18396469462053331_8974292785240939039_n.jpg",
+      "projects/kew-drive/398566213_18396469468053331_7075889633626210963_n.jpg",
+      "projects/kew-drive/kew drive 2.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Reflections at Keppel Bay",
+    "year": "2023",
+    "location": "Keppel Bay",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/reflections-at-keppel-bay",
+    "country": "Singapore",
+    "tags": [
+      "Decking",
+      "Cladding"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Accoya timber was treated with OSMO 429 for the rooftop balcony at Keppel Bay. Accoya cladding seamlessly extends onto the decking, with greenery and foliage adding a natural touch.",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/reflections-at-keppel-bay/keppel bay 1.jpg",
+      "projects/reflections-at-keppel-bay/keppel bay 2.jpg",
+      "projects/reflections-at-keppel-bay/keppel bay 3.jpg",
+      "projects/reflections-at-keppel-bay/keppel bay 4.jpg",
+      "projects/reflections-at-keppel-bay/keppel bay 5.jpg",
+      "projects/reflections-at-keppel-bay/keppel bay 6.jpg"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Bi-fold window",
+    "year": "2022",
+    "location": "Private residence in Singapore",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/bi-fold-window",
+    "country": "Singapore",
+    "tags": [
+      "Cladding",
+      "Bi-Fold Window"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Accoya coated with OSMO 706 cladded residential with bi-fold window screen.",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/bi-fold-window/IMG_0126.jpg",
+      "projects/bi-fold-window/IMG_0147-2.jpg",
+      "projects/bi-fold-window/IMG_0149-2.jpg"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Swiss Club",
+    "year": "2022",
+    "location": "Private residence in Singapore",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/swiss-club",
+    "country": "Singapore",
+    "tags": [
+      "Screens",
+      "Soffit",
+      "Cladding"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Accoya coated with OSMO Glazed cladded residential with sliding screen and cladding",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/swiss-club/(1)Timber Cladding_2f Swiss club.jpg",
+      "projects/swiss-club/(2) Timber Cladding_2f Swiss club.jpg",
+      "projects/swiss-club/Swiss club 2-2.jpg",
+      "projects/swiss-club/Swiss club 2.jpg",
+      "projects/swiss-club/Swiss club.jpg",
+      "projects/swiss-club/Timber Cladding_2f Swiss club.jpg"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "PUB Waterhub",
+    "year": "2018",
+    "location": "Waterhub",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/pub-waterhub",
+    "country": "Singapore",
+    "tags": [
+      "Wall"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "The light wooden walls at the PUB Waterhub project provide a clean and polished look that is fitting for a national water agency that manages Singapore's water supply. The bright and minimalistic design of the wood complements the overall goal of integrated water management, making the space feel open and inviting while also emphasizing the importance of cleanliness and sustainability.It's all about water and people.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/pub-waterhub/PUB Waterhub.jpg",
+      "projects/pub-waterhub/PUB Waterhub1.jpeg",
+      "projects/pub-waterhub/PUB Waterhub2.jpeg",
+      "projects/pub-waterhub/PUB Waterhub3.jpeg"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Apple Headquarter",
+    "year": "2023",
+    "location": "Apple HQ",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/apple-headquarter",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/apple-headquarter/Apple Southasia-3.jpg",
+      "projects/apple-headquarter/Apple Southasia.jpg"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Singapore Management \n University",
+    "year": "2021",
+    "location": "SMU",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/singapore-management-university",
+    "country": "Singapore",
+    "tags": [
+      "Cladding",
+      "Panel"
+    ],
+    "sectors": [
+      "Governmental"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/singapore-management-university/Photo from ergodomus.jpg",
+      "projects/singapore-management-university/Photo from streetdirectory.jpg",
+      "projects/singapore-management-university/SMU Cladding.jpg",
+      "projects/singapore-management-university/SMU Connexion .jpeg",
+      "projects/singapore-management-university/SMU Connexion 1.jpg",
+      "projects/singapore-management-university/SMU Connexion 2.jpg",
+      "projects/singapore-management-university/photo from chi-athenaeum.org.jpg",
+      "projects/singapore-management-university/photo from issuu #2.jpeg",
+      "projects/singapore-management-university/photo from issuu #3.jpeg"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Singtel Shop Comcentre",
+    "year": "2011",
+    "location": "313@somerset",
+    "completion": "Completed",
+    "size": "",
+    "imagePath": "projects/singtel-shop-comcentre",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "The Zerno-colored classic wood flooring at the Singtel Shop Comcentre project provides a timeless and sophisticated look that fits perfectly with the sleek and modern design of the commercial space. The durability of the wood ensures that it can withstand heavy foot traffic while maintaining its natural beauty over time.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": []
+  },
+  {
+    "id": "15",
+    "name": "Duxton Hill",
+    "year": "2023",
+    "location": "Duxton Hill",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/duxton-hill",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/duxton-hill/IMG_3465_1 copy.jpg",
+      "projects/duxton-hill/IMG_3506.jpg",
+      "projects/duxton-hill/IMG_3512-Enhanced-NR.jpg",
+      "projects/duxton-hill/IMG_3532.jpg",
+      "projects/duxton-hill/IMG_3538-Enhanced-NR.jpg",
+      "projects/duxton-hill/IMG_3541-Enhanced-NR.jpg",
+      "projects/duxton-hill/IMG_3546-2.jpg",
+      "projects/duxton-hill/IMG_3554-Enhanced-NR.jpg",
+      "projects/duxton-hill/IMG_3555.jpg",
+      "projects/duxton-hill/IMG_3558 2.jpg",
+      "projects/duxton-hill/IMG_3757-Enhanced-NR.jpg",
+      "projects/duxton-hill/duxton hill thumbnail.jpg"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Dyson Head Quarters",
+    "year": "2022",
+    "location": "James Power Station",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/dyson-head-quarters",
+    "country": "Singapore",
+    "tags": [
+      "Stairs",
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/dyson-head-quarters/DYSON 2.jpg",
+      "projects/dyson-head-quarters/Dyson Stairs.jpeg",
+      "projects/dyson-head-quarters/Dyson stair side.jpeg",
+      "projects/dyson-head-quarters/Dyson thumbnail.jpeg"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "KANDINSKY Outlet",
+    "year": "2023",
+    "location": "Marina Square",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/kandinsky-outlet",
+    "country": "Singapore",
+    "tags": [
+      "Flooring",
+      "Wall and Ceiling"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/kandinsky-outlet/IMG 3652.jpg",
+      "projects/kandinsky-outlet/IMG_3627-2.jpg",
+      "projects/kandinsky-outlet/IMG_3627-Enhanced-NR.jpg",
+      "projects/kandinsky-outlet/IMG_3628.jpg",
+      "projects/kandinsky-outlet/IMG_3631.jpg",
+      "projects/kandinsky-outlet/IMG_3644.jpg",
+      "projects/kandinsky-outlet/IMG_3648.jpg",
+      "projects/kandinsky-outlet/IMG_3652-Enhanced-NR.jpg",
+      "projects/kandinsky-outlet/IMG_3695.jpg",
+      "projects/kandinsky-outlet/IMG_3890.jpg",
+      "projects/kandinsky-outlet/IMG_3902.jpg",
+      "projects/kandinsky-outlet/IMG_3911.jpg",
+      "projects/kandinsky-outlet/kandinsky outlet thumbnail.jpg"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Margoliouth",
+    "year": "2023",
+    "location": "Margoliouth Road",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/marguolouth",
+    "country": "Singapore",
+    "tags": [
+      "Flooring",
+      "Stairs",
+      "Decking"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Kandinsky",
+      "Wood and Timber"
+    ],
+    "images": [
+      "projects/marguolouth/42 Marguolouth flooring.jpg",
+      "projects/marguolouth/42 Marguolouth.png",
+      "projects/marguolouth/Marguolouth thumbnail.png"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Nassim",
+    "year": "2022",
+    "location": "Nassim",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/nassim",
+    "country": "Singapore",
+    "tags": [
+      "Timber ceiling",
+      "Calvary Composite"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Wood and Timber",
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/nassim/close up of ceiling.jpg",
+      "projects/nassim/interior and exterior.jpg",
+      "projects/nassim/interior.jpg",
+      "projects/nassim/nassim thumbnail.jpg",
+      "projects/nassim/nassim-3.jpg",
+      "projects/nassim/nassim.jpg",
+      "projects/nassim/photo_2023-06-21_17-55-22.jpg",
+      "projects/nassim/photo_2023-06-21_17-55-24.jpg",
+      "projects/nassim/photo_2023-06-21_17-55-25.jpg"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "P+A Office",
+    "year": "2023",
+    "location": "P+A Office",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/pa-studio",
+    "country": "Singapore",
+    "tags": [
+      "Timber ceiling"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/pa-studio/P+A Accoya ceiling-2.jpg",
+      "projects/pa-studio/P+A Accoya ceiling-3.jpg",
+      "projects/pa-studio/P+A Accoya ceiling.jpg",
+      "projects/pa-studio/P+A Office Thumbnail.jpg"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Soleil",
+    "year": "2023",
+    "location": "Soleil",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/soleil",
+    "country": "Singapore",
+    "tags": [
+      "Flooring",
+      "Stairs",
+      "Platform"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Raised Tatami Platform. Design of contrast with raised height platform in a lighter colour to define the different use of spaces yet in an open concept manner. This give a zen looking feel combined with minimalism.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/soleil/Monocot - Soleil - 10.jpg",
+      "projects/soleil/Monocot - Soleil - 11.jpg",
+      "projects/soleil/Monocot - Soleil - 12.jpg",
+      "projects/soleil/Monocot - Soleil - 14.jpg",
+      "projects/soleil/Monocot - Soleil - 18.jpg",
+      "projects/soleil/Monocot - Soleil - 19.jpg",
+      "projects/soleil/Monocot - Soleil - 2.jpg",
+      "projects/soleil/Monocot - Soleil - 5.jpg",
+      "projects/soleil/Monocot - Soleil - thumbnail.jpg"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "RISE restaurant",
+    "year": "2016",
+    "location": "Marina Bay Sands",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/rise-restaurant",
+    "country": "Singapore",
+    "tags": [
+      "Structural build"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Wood and Timber"
+    ],
+    "images": [
+      "projects/rise-restaurant/0ccb7084-8ea9-4603-9d57-5d7b00418777-2.jpg",
+      "projects/rise-restaurant/2.JPG",
+      "projects/rise-restaurant/IMG_0671.jpg",
+      "projects/rise-restaurant/IMG_0677.jpg",
+      "projects/rise-restaurant/IMG_0702.jpg",
+      "projects/rise-restaurant/IMG_0707-2.jpg",
+      "projects/rise-restaurant/IMG_0711-2.jpg",
+      "projects/rise-restaurant/IMG_0711-3.jpg",
+      "projects/rise-restaurant/IMG_0718.jpg",
+      "projects/rise-restaurant/b270e11b-2769-499e-a715-d8c1484887e3-2.jpg",
+      "projects/rise-restaurant/e2a7a54e-480d-4051-899b-4f853167c50d-2.jpg"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "National Youth Sports \n Institute",
+    "year": "2021",
+    "location": "NYSI",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/national-youth-sports-institute",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/national-youth-sports-institute/NYSI 1.jpeg",
+      "projects/national-youth-sports-institute/NYSI 2.jpeg",
+      "projects/national-youth-sports-institute/NYSI 3.jpeg",
+      "projects/national-youth-sports-institute/NYSI 4.jpeg",
+      "projects/national-youth-sports-institute/NYSI 5.jpeg",
+      "projects/national-youth-sports-institute/NYSI 6.jpeg"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Cloudbreak",
+    "year": "2023",
+    "location": "Cloudbreak",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/cloudbreak",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "maintenance"
+    ],
+    "description": "",
+    "products": [
+      "Sand \u0026 Vanish"
+    ],
+    "images": [
+      "projects/cloudbreak/464227b4-09a8-4a40-9a08-0fa552fc60a1.jpg",
+      "projects/cloudbreak/b028509a-d002-4c4e-bd73-78f594d6d626.jpg",
+      "projects/cloudbreak/ba324625-c790-42c7-aa21-d8386544a63e.jpg",
+      "projects/cloudbreak/cloud break.jpg",
+      "projects/cloudbreak/cloudbreak 2.jpg",
+      "projects/cloudbreak/d95a342b-9e4f-4bd5-be9a-e1d6f12ad43b.jpg",
+      "projects/cloudbreak/ea65a431-c3ac-4531-abe7-54588cefb779.jpg",
+      "projects/cloudbreak/fd9f8d9b-5bbf-42cf-81bf-1c41e9a79fce.jpg"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "St Regis Hotel 2",
+    "year": "2018",
+    "location": "St Regis Hotel",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/st-regis-hotel-2",
+    "country": "Singapore",
+    "tags": [
+      "Stairs",
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "To supply \u0026 install Jurupa Engineered Pattern Floors.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/st-regis-hotel-2/Copy of 05-cmsrs.jpeg",
+      "projects/st-regis-hotel-2/Copy of Kandinsky Brochure 2022.jpg",
+      "projects/st-regis-hotel-2/Copy of Kandinsky Brochure 20222.jpg",
+      "projects/st-regis-hotel-2/Copy of The_St 2 2.jpg",
+      "projects/st-regis-hotel-2/Copy of The_St 2.jpg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.46 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.46.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.47 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.47.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.48 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.48 (2).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.02.48.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.04.51.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.45 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.45.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.46 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.46.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.47 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.47.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.48 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.48.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.49 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2018-12-14 at 11.11.49.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.24.30 (1).jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.24.30.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.24.31.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.25.16.jpeg",
+      "projects/st-regis-hotel-2/Copy of WhatsApp Image 2019-01-08 at 15.26.23.jpeg"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Artyzen Hotel",
+    "year": "2023",
+    "location": "9 Cuscaden Road",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/artyzen-hotel",
+    "country": "Singapore",
+    "tags": [
+      "Flooring",
+      "Panel",
+      "Decking",
+      "Cladding",
+      "Soffit"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Accoya",
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/artyzen-hotel/Artyzen Accoya Decking 2.2.jpg",
+      "projects/artyzen-hotel/Artyzen Accoya Decking 3.3.jpg",
+      "projects/artyzen-hotel/Artyzen Accoya Decking.jpg",
+      "projects/artyzen-hotel/artyzen decking.jpeg",
+      "projects/artyzen-hotel/artyzen-architecture.jpg",
+      "projects/artyzen-hotel/artyzen-room-interior.jpeg",
+      "projects/artyzen-hotel/artyzen-terrace-The Terrace Suite comes with a spacious and completely private outdoor garden..jpeg",
+      "projects/artyzen-hotel/quenino- The signature restaurant Quenino is decked out in extravagant design..jpeg"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Hilton Singapore Orchard",
+    "year": "",
+    "location": "Hilton Singapore Orchard",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/hilton-singapore-orchard",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Botanical-inspired interiors and modern amenities. Hilton Orchard provides sustainable and innovative rooms feature eco-friendly motion sensor-controlled lighting and air-conditioning.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/hilton-singapore-orchard/6216e3a9e0044025ab89a583dd799465-hilton-singapore-orchard-reception.jpeg",
+      "projects/hilton-singapore-orchard/Hilton Hotel Orchard.jpg"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "UNIQLO",
+    "year": "2020",
+    "location": "Level 2 @ Orchard Central",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/uniqlo",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "UNIQLO at Level 2 of Orchard Central features a stunning and sustainable engineered flooring in the rich, warm hue of Pugachov. The flooring covers the entire floor of the store, providing a cozy and inviting atmosphere for shoppers. Made with high-quality sustainable materials, this flooring reflects UNIQLO's commitment to sustainability and natural beauty.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/uniqlo/2022-10-11.jpeg",
+      "projects/uniqlo/2022-10-112.jpeg",
+      "projects/uniqlo/2022-10-113.jpeg",
+      "projects/uniqlo/3.jpeg",
+      "projects/uniqlo/4.jpeg",
+      "projects/uniqlo/IMG_2201.jpg",
+      "projects/uniqlo/IMG_2205.jpg",
+      "projects/uniqlo/IMG_2220.jpg",
+      "projects/uniqlo/IMG_2222.jpg",
+      "projects/uniqlo/uniqlo 2.jpeg",
+      "projects/uniqlo/uniqlo at orchard gateway_pugachov.jpg",
+      "projects/uniqlo/uniqlo.jpg"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Changi Airport T3",
+    "year": "2018",
+    "location": "Changi Airport T3 B1 and L1",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/changi-airport-t3",
+    "country": "Singapore",
+    "tags": [
+      "Stairs",
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Supply and installation of 252m2 of Engineered Oak (Osmo 3062) for Steps seating, staircase risers and staircase treads",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/changi-airport-t3/WhatsApp Image 2019-02-28 at 13.19.18 (1).jpeg",
+      "projects/changi-airport-t3/WhatsApp Image 2019-02-28 at 13.19.18.jpeg",
+      "projects/changi-airport-t3/WhatsApp Image 2019-02-28 at 13.19.19.jpeg",
+      "projects/changi-airport-t3/WhatsApp Image 2019-03-17 at 17.44.23.jpeg"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Jalan Terubok",
+    "year": "2022",
+    "location": "Jalan Terubok",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/jalan-terubok",
+    "country": "Singapore",
+    "tags": [
+      "Flooring",
+      "Ceiling"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Bold in colour and contrast. Timber gels in perfectly with concrete designed surroundings. Talking about modern rustic, this is one of the good examples. Dark colour timber gives the place a bold \u0026 masculine outlook.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-1.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-10.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-11.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-12.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-13.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-14.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-15.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-16.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-17.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-18.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-19.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-2.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-20.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-21.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-22.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-23.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-24.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-25.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-26.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-27.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-28.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-29.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-3.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-30.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-31.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-4.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-5.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-6.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-7.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-8.jpg",
+      "projects/jalan-terubok/2208_8JT_0826_CHAN-9.jpg",
+      "projects/jalan-terubok/2208_8JT_0929_Chan-11.jpeg",
+      "projects/jalan-terubok/2208_8JT_0929_Chan-15.jpeg",
+      "projects/jalan-terubok/2208_8JT_0929_Chan-20.webp",
+      "projects/jalan-terubok/2208_8JT_0929_Chan-27.jpeg",
+      "projects/jalan-terubok/2208_8JT_0929_Chan-33.jpeg",
+      "projects/jalan-terubok/2208_8JT_0929_Chan-4.jpeg",
+      "projects/jalan-terubok/2208_8JT_0929_Chan-6.jpeg",
+      "projects/jalan-terubok/Jin Terubok.jpeg"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "The Working Capitol",
+    "year": "2017",
+    "location": "Robinson",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/the-working-capitol",
+    "country": "Singapore",
+    "tags": [
+      "Flooring",
+      "Wall and Stairs"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Not only floors but walls as well. Capturing attention with one look from afar. Its's hard to not miss this!",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_01.jpeg",
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_02.jpeg",
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_03.jpeg",
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_05.jpeg",
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_07.jpeg",
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_08.jpeg",
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_09.jpeg",
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_10.jpeg",
+      "projects/the-working-capitol/TheWorkingCapitol_HASSELL_EK_Yap_12.jpeg"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Ion Orchard",
+    "year": "2019",
+    "location": "L5 Art Gallery",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/ion-orchard",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "A home to arts and paintings. The light coloured timber floors compliments the hang ups on the walls. One look from afar, it is inviting with subtleness and tranquility.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/ion-orchard/E6criUWNvdGlXZL6EQOf.jpeg",
+      "projects/ion-orchard/IMG-0050.jpeg",
+      "projects/ion-orchard/ION orchard.jpg",
+      "projects/ion-orchard/Kandinsky Brochure 20221.jpg",
+      "projects/ion-orchard/art-reunite_ytp2019-0_0.webp",
+      "projects/ion-orchard/image3-7.jpeg",
+      "projects/ion-orchard/lfCfLkiuXlxynV8OuR3p.jpeg"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "BP Singapore",
+    "year": "2017",
+    "location": "BP Office",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/bp-singapore",
+    "country": "Singapore",
+    "tags": [
+      "Stairs",
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "BP's office stairs is not to be missed! With the side lights illuminiating your path, the timber stairs is mesmerizing as u climb step by step with the different characters of timber grains greeting you.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/bp-singapore/BP fit out MAIN2 - ISG.jpeg",
+      "projects/bp-singapore/BP logo.jpg",
+      "projects/bp-singapore/BP singapore 2.jpg",
+      "projects/bp-singapore/BP-Singapore-Artisan-Malachite-Botanic-Ivy-and-Viva-3.jpeg",
+      "projects/bp-singapore/BP-Singapore.jpeg",
+      "projects/bp-singapore/BP_1.jpg",
+      "projects/bp-singapore/BP_2.jpg",
+      "projects/bp-singapore/BP_3.jpg",
+      "projects/bp-singapore/Contract-Projects-Online-Hotspot-Banner-3.png",
+      "projects/bp-singapore/DNB-Singapore-office-skyline-view-desk-600x800.jpeg",
+      "projects/bp-singapore/DNB-Singapore-workplace-lounge-reception-1200x675.jpeg"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "DNB",
+    "year": "2017",
+    "location": "DNB Office",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/dnb",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "DnB chooses a neutral. A rare sight of Larch timber display. Uncomonly used in tropical countries, DNB knows the true appreciation of timber characteristics. The floors are truely a beauty to behold, normalizing knots.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/dnb/DNB-Singapore-workplace-collsboration-casual-seating-2000x1125.jpeg",
+      "projects/dnb/DNB-Singapore-workplace-marble-casual-seating-logo-2000x1125.jpeg",
+      "projects/dnb/DNB-Singapore-workplace-marble-logo-casual-seating-1200x675.jpeg",
+      "projects/dnb/DNB_1.jpeg",
+      "projects/dnb/DNB_2.jpeg",
+      "projects/dnb/DnB.jpg"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "GSK Global HQ (Asia)",
+    "year": "2017",
+    "location": "GSK HQ",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/gsk-global-hq-asia",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Installation of Oak Engineering Floors at GSK Global HQ (Asia). Home of the medicinal productions and research. What more to fit the theme of calm, tranquil and affirmation for one's health would be none other than engineered oak with the background of healthy timber flooring.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/gsk-global-hq-asia/1.jpeg",
+      "projects/gsk-global-hq-asia/11.jpeg",
+      "projects/gsk-global-hq-asia/2.jpeg",
+      "projects/gsk-global-hq-asia/20170425_105404.jpg",
+      "projects/gsk-global-hq-asia/26114-thumb.jpeg",
+      "projects/gsk-global-hq-asia/3.jpeg",
+      "projects/gsk-global-hq-asia/4.jpeg",
+      "projects/gsk-global-hq-asia/5.jpeg",
+      "projects/gsk-global-hq-asia/6-1.jpeg",
+      "projects/gsk-global-hq-asia/7.jpeg",
+      "projects/gsk-global-hq-asia/8.jpeg",
+      "projects/gsk-global-hq-asia/9.jpeg",
+      "projects/gsk-global-hq-asia/GSKAsiaHouse_3_splitport_48e66e92379d3980471ee0b4296c39cb.jpeg",
+      "projects/gsk-global-hq-asia/GSKAsiaHouse_4_splitport_48e66e92379d3980471ee0b4296c39cb.jpeg",
+      "projects/gsk-global-hq-asia/GSKAsiaHouse_5_splitland_43928bf373b2e368a2740443b09d1fe2.jpeg",
+      "projects/gsk-global-hq-asia/GSKAsiaHouse_5_splitland_f3bc354d12fcc516588ebddb09ff9fd6.jpeg"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "UBS Penang Road",
+    "year": "2020",
+    "location": "Penang Road",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/ubs-penang-road",
+    "country": "Singapore",
+    "tags": [
+      "Stairs",
+      "Ceiling"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "The UBS Penang Road project features a stunning wooden platform and flooring in Zerno color, creating a warm and inviting atmosphere. The classic wood design adds a touch of sophistication and elegance to the commercial space, making it a perfect choice for any business setting.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/ubs-penang-road/Kandinsky Brochure 2022.jpg",
+      "projects/ubs-penang-road/UBS _2_.jpeg",
+      "projects/ubs-penang-road/UBS _3_.jpeg",
+      "projects/ubs-penang-road/UBS _5_.jpeg"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "JYPSY Cafe",
+    "year": "2022",
+    "location": "One Fullerton",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/jypsy-cafe",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/jypsy-cafe/Accoya timber finished with osmo external oil.jpeg",
+      "projects/jypsy-cafe/Jypsy One.png",
+      "projects/jypsy-cafe/Screenshot 2022-11-15 at 3.56.29 PM.png"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Apple Inc",
+    "year": "2012",
+    "location": "Apple Inc Office Singapore",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/apple-inc",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/apple-inc/Apple inc 2012 (2).jpg",
+      "projects/apple-inc/Apple inc 2012.jpg"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Singapore Japanese School",
+    "year": "2019",
+    "location": "SJS",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/singapore-japanese-school",
+    "country": "Singapore",
+    "tags": [
+      "Stairs"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Wood and Timber"
+    ],
+    "images": [
+      "projects/singapore-japanese-school/Singapore Japanese School thumbnail.jpg",
+      "projects/singapore-japanese-school/Singapore Japanese School.jpg",
+      "projects/singapore-japanese-school/Singapore Japanese School2.png"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Burmese teak handrail",
+    "year": "2011",
+    "location": "Wilkinson road",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/burmese-teak-handrail",
+    "country": "Singapore",
+    "tags": [
+      "Stairs"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Wood and Timber"
+    ],
+    "images": [
+      "projects/burmese-teak-handrail/13995491_623450681151967_2242216422823294247_o.jpeg",
+      "projects/burmese-teak-handrail/Burmese Teak winding in a continuous and gradually widening pattern — at wilkinson road.jpeg"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Babilou",
+    "year": "2023",
+    "location": "Jurong Gateway",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/babilou",
+    "country": "Singapore",
+    "tags": [
+      "Structural build",
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Accoya",
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/babilou/Babilou 1.jpeg",
+      "projects/babilou/Babilou 2.jpeg",
+      "projects/babilou/Babilou 3.jpg",
+      "projects/babilou/IMG_2827.jpg",
+      "projects/babilou/IMG_2852.jpg",
+      "projects/babilou/IMG_2881.jpg",
+      "projects/babilou/bailou 4.jpg"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "76 Shenton",
+    "year": "2021",
+    "location": "76 Shenton",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/76-shenton",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "At 76 Shenton, residents and visitors are greeted with a stunning composite decking in the warm and inviting color of Rum. The decking is located next to water features in a swimming pool, leading towards the entrance, creating a truly breathtaking first impression. Rum color adds a touch of sophistication and warmth to the space, creating a beautiful and inviting atmosphere for residents and visitors to enjoy.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/76-shenton/76 Shenton - Rum.jpg",
+      "projects/76-shenton/76 shenton 2.jpg",
+      "projects/76-shenton/76 shenton.jpg"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Maple Business Park",
+    "year": "2018",
+    "location": "Maple Business Park",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/maple-business-park",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Nestled next to a serene pond and surrounded by beautiful trees and nature, the composite decking provides the perfect spot to relax and take in the beauty of the surroundings. The Havana Gold colour adds a touch of warmth and elegance to the space, creating a beautiful and inviting atmosphere for visitors and tenants alike.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/maple-business-park/01-MBC.ashx.jpg",
+      "projects/maple-business-park/2019-02-02.jpg",
+      "projects/maple-business-park/4044_2.jpg",
+      "projects/maple-business-park/MBC Circle.jpg",
+      "projects/maple-business-park/Mapletree Business City Fact Sheet_Singapore.jpg",
+      "projects/maple-business-park/Mapletree Business Park copy-EDIT.jpg",
+      "projects/maple-business-park/Mapletree Business Park(1).jpg",
+      "projects/maple-business-park/Mapletree Business Park.jpg",
+      "projects/maple-business-park/Mapletree Business tree 1.jpg",
+      "projects/maple-business-park/Mapletree Business tree 2.jpg",
+      "projects/maple-business-park/Mapletree Business tree 3.jpg"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "SKIRT Restaurant",
+    "year": "2020",
+    "location": "W Hotel",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/skirt-restaurant",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "At the W Hotel, SKIRT Restaurant, guests can enjoy a luxurious outdoor dining experience on a stunning composite decking in the warm and inviting color of Rum. The Rum color adds a touch of warmth and sophistication to the outdoor dining area, creating a beautiful and inviting atmosphere for guests to enjoy their meal in style.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/skirt-restaurant/W hotel-2.jpg",
+      "projects/skirt-restaurant/W hotel.jpg",
+      "projects/skirt-restaurant/photo_2023-08-03_17-13-06.jpg",
+      "projects/skirt-restaurant/photo_2023-08-03_17-13-08.jpg",
+      "projects/skirt-restaurant/photo_2023-08-03_17-13-09.jpg"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Jalan Seruling",
+    "year": "2021",
+    "location": "Jalan Seruling",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/jalan-seruling",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior",
+      "exterior"
+    ],
+    "description": "Outdoor balcony and roof top decking.",
+    "products": [
+      "Accoya"
+    ],
+    "images": [
+      "projects/jalan-seruling/jalan seruling_1.jpg",
+      "projects/jalan-seruling/jalan seruling_10.jpg",
+      "projects/jalan-seruling/jalan seruling_2.jpg",
+      "projects/jalan-seruling/jalan seruling_3.jpg",
+      "projects/jalan-seruling/jalan seruling_4.jpg",
+      "projects/jalan-seruling/jalan seruling_5.jpg",
+      "projects/jalan-seruling/jalan seruling_7.jpg",
+      "projects/jalan-seruling/jalan seruling_8.jpg",
+      "projects/jalan-seruling/jalan seruling_9.jpg"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Waterbay Condominium",
+    "year": "2022",
+    "location": "Waterbay",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/waterbay-condominium",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Waterbay Condominium boasts a stunning composite decking in the warm and inviting color of Rum. The removal of 1200m2 of hardwood decking was expertly executed and replaced with Calvary Composite, creating a luxurious and sustainable outdoor living space. The Rum colour adds a touch of warmth and sophistication to the space, making it an ideal place to relax and enjoy the stunning pool views.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/waterbay-condominium/Waterbay_1.jpg",
+      "projects/waterbay-condominium/Waterbay_2.jpg",
+      "projects/waterbay-condominium/Waterbay_3.jpg",
+      "projects/waterbay-condominium/Waterbay_4.jpg",
+      "projects/waterbay-condominium/Waterbay_5.jpg",
+      "projects/waterbay-condominium/Waterbay_6.jpg"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Mount Sinai",
+    "year": "2020",
+    "location": "Mount Sinai",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/mount-sinai",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Fixed timber screens line the bridge into the house. Its scale and rhythm speak of solidity yet porosity. It offers a peek into the space beyond the threshold yet keeps unwelcome gazes out. Crossing over, a solitary tree rises upwards from below, indicating habitable space beneath. One senses that the exterior belies the interior.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/mount-sinai/Second-Nature-House-1.jpg",
+      "projects/mount-sinai/Second-Nature-House-13.jpg",
+      "projects/mount-sinai/Second-Nature-House-16.jpg",
+      "projects/mount-sinai/Second-Nature-House-17.jpg",
+      "projects/mount-sinai/Second-Nature-House-18.jpg",
+      "projects/mount-sinai/Second-Nature-House-19.jpg",
+      "projects/mount-sinai/Second-Nature-House-21.jpg",
+      "projects/mount-sinai/Second-Nature-House-22.jpg",
+      "projects/mount-sinai/Second-Nature-House-23.jpg",
+      "projects/mount-sinai/Second-Nature-House-25.jpg",
+      "projects/mount-sinai/Second-Nature-House-3.jpg",
+      "projects/mount-sinai/Second-Nature-House-4.jpg",
+      "projects/mount-sinai/Second-Nature-House-5.jpg",
+      "projects/mount-sinai/Second-Nature-House-7.jpg",
+      "projects/mount-sinai/Second-Nature-House-8.jpg",
+      "projects/mount-sinai/second-nature-house-6.jpg"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Lakehomes",
+    "year": "2020",
+    "location": "Lakehomes Condominium",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/lakehomes",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Lakehomes Condominium is a luxurious waterfront community that features a stunning composite decking built next to the swimming pool. The composite decking in the bold and eye-catching color of Lava adds a touch of drama and elegance to the outdoor space.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/lakehomes/Lakehomes Condominium 1.jpg",
+      "projects/lakehomes/Lakehomes Condominium 2.jpg"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Gambir Ridge",
+    "year": "2020",
+    "location": "Gambir Ridge Condominium",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/gambir-ridge",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Gambir Ridge Condominium offers a luxurious and stylish outdoor living space with its stunning composite decking in the serene and calming color of Mist. The composite decking is built next to the swimming pool in a roof terrace, providing a relaxing and private oasis for residents to escape the hustle and bustle of city life.\n \n The Mist color adds a touch of tranquility and sophistication to the space, creating a soothing and serene environment for relaxation and enjoyment.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/gambir-ridge/IMG_3928.jpg",
+      "projects/gambir-ridge/IMG_3940-Edit.jpg",
+      "projects/gambir-ridge/IMG_3942.jpg",
+      "projects/gambir-ridge/IMG_3952.jpg",
+      "projects/gambir-ridge/IMG_3957-Edit 2.jpg",
+      "projects/gambir-ridge/IMG_3964-2-Edit.jpg"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Burnt foot",
+    "year": "2022",
+    "location": "Burnt foot Road",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/burnt-foot",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "The captivating dark tones of Nero decking exude an air of sophistication and modernity, elevating the balcony's aesthetic appeal. With its sleek and stylish appearance, the decking provides a durable and low-maintenance platform for relaxation and leisure. Whether hosting gatherings or seeking solace, guests can indulge in a luxurious experience on the balcony, surrounded by the contemporary beauty of Calvary Composite Nero decking.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/burnt-foot/Burnfoot 1.jpg",
+      "projects/burnt-foot/Burnfoot 2.jpg",
+      "projects/burnt-foot/Burnfoot 3.jpg"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "LYF@one-north",
+    "year": "2022",
+    "location": "One-north Singapore",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/lyf-one-north",
+    "country": "Singapore",
+    "tags": [
+      ""
+    ],
+    "sectors": [
+      ""
+    ],
+    "services": [
+      ""
+    ],
+    "description": "",
+    "products": [
+      ""
+    ],
+    "images": [
+      "projects/lyf-one-north/Lyf@one north.jpg",
+      "projects/lyf-one-north/photo by WOHA #2.jpg",
+      "projects/lyf-one-north/photo by WOHA #3.jpg",
+      "projects/lyf-one-north/photo by WOHA.jpg"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Lyf@funan",
+    "year": "2019",
+    "location": "Funan",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/lyf-funan",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "LYF Funan Singapore is located in Funan Mall, the design alludes to the industrial style but with a more playful slant to suit the target customersâ€™ characters. This idea is combined with a touch of locality, consisting of a collage of materials of various texture, patterns, and colours; and furniture made by local designers and artists.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/lyf-funan/Lyf@one north.jpg",
+      "projects/lyf-funan/photo by WOHA #2.jpg",
+      "projects/lyf-funan/photo by WOHA #3.jpg",
+      "projects/lyf-funan/photo by WOHA.jpg"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Braemar Drive",
+    "year": "2023",
+    "location": "Braemar Drive",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/braemar-drive",
+    "country": "Singapore",
+    "tags": [
+      "Stairs",
+      "Flooring"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/braemar-drive/Braemar Drive Thumbnail.jpg",
+      "projects/braemar-drive/Braemar Drive-1.JPG",
+      "projects/braemar-drive/Braemar Drive-2.JPG",
+      "projects/braemar-drive/Braemar Drive-3.JPG",
+      "projects/braemar-drive/Braemar Drive-4.JPG",
+      "projects/braemar-drive/Braemar Drive-5.JPG",
+      "projects/braemar-drive/Braemar Drive-6.JPG"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Shiseido",
+    "year": "2018",
+    "location": "Shiseido",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/shiseido",
+    "country": "Singapore",
+    "tags": [
+      "Flooring",
+      "Ceiling",
+      "Stairs"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "Out of the ordinary laying methods, Shiseido choose weave basket patterns. Carefully designed by the architect, this spaces shows true consistency, bringing out the tinge of vintage to the modern world application.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/shiseido/PUB Waterhub.jpg",
+      "projects/shiseido/PUB Waterhub1.jpeg",
+      "projects/shiseido/PUB Waterhub2.jpeg",
+      "projects/shiseido/PUB Waterhub3.jpeg"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Hom Yoga",
+    "year": "2018",
+    "location": "181 Orchard Rd",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/hom-yoga",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "An inviting space to invigoration. The white stained timber oil speaks for itself. Calm, tranquil, strong minimalist that takes you away from bustling stress. Namaste!",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/hom-yoga/Kids_4_1800x 2 copy-2.jpg",
+      "projects/hom-yoga/Kids_4_1800x 2 copy.jpg",
+      "projects/hom-yoga/Kids_4_1800x.webp",
+      "projects/hom-yoga/Studio-10_7761e6dc-b510-4273-9877-9adcf72731e5_1800x.webp",
+      "projects/hom-yoga/Studio-12_1800x.webp",
+      "projects/hom-yoga/Studio_9.1_1800x.webp",
+      "projects/hom-yoga/WhatsApp Image 2019-07-31 at 18.12.23 (1).jpg",
+      "projects/hom-yoga/WhatsApp Image 2019-07-31 at 18.12.23 (2).jpg",
+      "projects/hom-yoga/WhatsApp Image 2019-07-31 at 18.12.23.jpg",
+      "projects/hom-yoga/WhatsApp Image 2019-07-31 at 18.14.58.jpg",
+      "projects/hom-yoga/img_6542.jpg",
+      "projects/hom-yoga/meiyan_angeline_jan2022_5_bf0c4338-69e7-4825-9a1e-9442597d23df_1800x.webp"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Cartier",
+    "year": "2018",
+    "location": "Marina Bay Sands",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/cartier",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "The warm reddish coated wood flooring and spiral staircase at the Cartier project provide a dramatic and unforgettable entrance to the luxurious commercial space. The rich and vibrant color of the wood adds depth and character to the overall design, making it a stunning feature of the upscale Marina Bay Sands shopping mall.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/cartier/Catier 1.jpg",
+      "projects/cartier/Catier 2.jpg",
+      "projects/cartier/mbs-b1-general-1200x800.jpeg",
+      "projects/cartier/mbs-b1-vip-salon-1200x800-1200x800.jpeg",
+      "projects/cartier/mbs-b1-vip-salon-1200x800.jpeg",
+      "projects/cartier/mbs-detailing-3-1200x1799.jpeg"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "APM Monaco",
+    "year": "2018",
+    "location": "Jewel",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/apm-monaco",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "The Zerno-colored classic wood herringbone flooring at the APM Monaco project provides a luxurious and sophisticated backdrop for the high-end jewelry and accessories on display. The durability of the wood ensures that it can withstand heavy foot traffic, while its natural beauty adds a touch of warmth and elegance to the commercial space.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/apm-monaco/2019-01-28.jpeg",
+      "projects/apm-monaco/2020-05-21.jpeg",
+      "projects/apm-monaco/AX9A9184.jpeg",
+      "projects/apm-monaco/AX9A9208.jpeg",
+      "projects/apm-monaco/AX9A9241.jpeg",
+      "projects/apm-monaco/AX9A9248.jpeg"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Chanel",
+    "year": "2017",
+    "location": "KLCC",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/chanel",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "The black oil Kildare flooring at the Channel project provides a luxurious and refined look that is perfect for a high-end fashion retailer. The durability of the wood ensures that it can withstand heavy foot traffic, while its natural beauty adds a touch of elegance and sophistication to the commercial space.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/chanel/07_Aspen_ephemeral_boutique_pictures_by_Sam_Frost_7_HD.jpeg",
+      "projects/chanel/1617748815-chanel-aspen-pop-up-elk-mountains-winter.webp",
+      "projects/chanel/Kandinsky Brochure 2022.jpg",
+      "projects/chanel/Kandinsky Brochure 20223.jpg",
+      "projects/chanel/Screenshot 2022-11-14 at 11.57.50 AM.png",
+      "projects/chanel/Screenshot 2022-11-14 at 11.57.59 AM.png"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Bell \u0026 Ross",
+    "year": "2018",
+    "location": "Bell \u0026 Ross",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/bell-and-ross",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "The Bell \u0026 Ross project boasts striking black oil Kildare flooring, creating a dramatic and contemporary atmosphere that complements the brand's innovative and stylish image. The dark color of the wood adds a touch of sophistication to the commercial space, making it a perfect setting for displaying the brand's high-end luxury watches.",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/bell-and-ross/Bell \u0026 Ross 1.jpg",
+      "projects/bell-and-ross/Bell \u0026 Ross 2.jpg",
+      "projects/bell-and-ross/Clozette_Highlife_Bell\u0026Ross_New_Interiors_1.jpeg",
+      "projects/bell-and-ross/Clozette_Highlife_Bell\u0026Ross_New_Interiors_2.jpeg",
+      "projects/bell-and-ross/Clozette_Highlife_Bell\u0026Ross_New_Interiors_3.jpeg",
+      "projects/bell-and-ross/Clozette_Highlife_Step-Into-The-_New-Bell\u0026Ross-_Boutique-At-_Orchard-Road_Cover.jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-07-13 at 10.02.31.jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-07-13 at 10.06.01 (1).jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-07-13 at 10.06.01 (2).jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-07-13 at 10.06.01 (3).jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-07-13 at 10.06.01.jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-08-13 at 19.25.36 (1).jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-08-13 at 19.25.36 (2).jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-08-13 at 19.25.36 (3).jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-08-13 at 19.25.36 (4).jpeg",
+      "projects/bell-and-ross/WhatsApp Image 2018-08-13 at 19.25.36.jpeg"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Bidadari",
+    "year": "2023",
+    "location": "Bidadari",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/bibidari",
+    "country": "Singapore",
+    "tags": [
+      "Flooring"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "",
+    "products": [
+      "Kandinsky"
+    ],
+    "images": [
+      "projects/bibidari/Bidiari Thumbnail.jpg",
+      "projects/bibidari/IMG_2412.jpg",
+      "projects/bibidari/IMG_2415.jpg",
+      "projects/bibidari/IMG_2429-2.jpg",
+      "projects/bibidari/IMG_2446.jpg",
+      "projects/bibidari/IMG_2458.jpg",
+      "projects/bibidari/IMG_2461.jpg",
+      "projects/bibidari/IMG_2486.jpg",
+      "projects/bibidari/IMG_2500.jpg",
+      "projects/bibidari/IMG_2503.jpg",
+      "projects/bibidari/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Kampung Admiralty",
+    "year": "2017",
+    "location": "Kampung Admiralty",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/kampung-admiralty",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Governmental"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/kampung-admiralty/20170515_145556.jpg",
+      "projects/kampung-admiralty/IMG_6043.jpg",
+      "projects/kampung-admiralty/IMG_6078.jpg",
+      "projects/kampung-admiralty/IMG_6103.jpg",
+      "projects/kampung-admiralty/IMG_6106.jpg",
+      "projects/kampung-admiralty/IMG_6110.jpg",
+      "projects/kampung-admiralty/IMG_6124.jpg",
+      "projects/kampung-admiralty/IMG_6126.jpg",
+      "projects/kampung-admiralty/RSD_Kampung-Admiralty_Landezine_12.jpg",
+      "projects/kampung-admiralty/photo from WOHA#2.jpg",
+      "projects/kampung-admiralty/photo from WOHA.jpg"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "The Trumps",
+    "year": "2021",
+    "location": "The Trumps Condominium",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/the-trumps",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Located in the pool deck of Tumps Condominium, Calvary Composite Rum exudes warmth and elegance, perfectly complementing the surrounding environment while creating a welcoming space for residents and visitors alike.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/the-trumps/Trumps 1.jpg",
+      "projects/the-trumps/Trumps 2.jpg",
+      "projects/the-trumps/Trumps 3.jpg"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Civil Service Club",
+    "year": "2023",
+    "location": "Changi",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/civil-service-club",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "In front of the scenic sea, our Havana decking complements the picturesque backdrop, creating an atmosphere of coastal charm. With its enduring durability and low-maintenance nature, the Havana decking ensures a long-lasting and enjoyable experience for all who visit the club, making it an idyllic destination for leisure and leisurely activities by the sea.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/civil-service-club/WhatsApp Image 2023-08-15 at 7.01.16 PM.jpeg",
+      "projects/civil-service-club/landscape_Changi Civil Club.jpg"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Apple HQ",
+    "year": "2023",
+    "location": "12 Ang Mo Kio",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/apple-hq",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Apple SouthAsia HQ features a beautiful outdoor balcony area with composite decking in the serene color of Havana. The decking provides a comfortable and elegant space to relax and unwind.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/apple-hq/Apple Southasia-3.jpg",
+      "projects/apple-hq/Apple Southasia.jpg"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Chempaka",
+    "year": "2019",
+    "location": "Chempaka Ave",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/chempaka",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Residential"
+    ],
+    "services": [
+      "interior"
+    ],
+    "description": "This beautiful bungalow was designed with a contemporary interpretation of a courtyard house, and we're proud to have our Calvary Composite Decking as part of it. Our decking not only enhances the natural day-lighting and cross ventilation, but also provides the perfect platform to enjoy the stunning views from the multi-level sky terraces.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/chempaka/CIAP 3.jpeg",
+      "projects/chempaka/CIAP_1.jpeg",
+      "projects/chempaka/CIAP_2.jpeg",
+      "projects/chempaka/CIAP_4.jpeg"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Onalu Cafe",
+    "year": "2021",
+    "location": "Singapore Management University",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/onalu-cafe",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Onalu Cafe@Singapore Management University features a beautiful outdoor eating area with composite decking in the serene color of mist. The decking provides a comfortable and elegant space for diners to enjoy their meals surrounded by of the campus.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/onalu-cafe/CIAP 3.jpeg",
+      "projects/onalu-cafe/CIAP_1.jpeg",
+      "projects/onalu-cafe/CIAP_2.jpeg",
+      "projects/onalu-cafe/CIAP_4.jpeg"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Khoo Teck Puat Hospital",
+    "year": "2018",
+    "location": "Yishun Central",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/khoo-teck-puat-hospital",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "Khoo Teck Puat Hospital is a modern medical facility that offers high-quality care to its patients. The hospital's outdoor waiting areas feature comfortable composite benches in the warm and inviting colour of rum, providing patients and visitors with a relaxing place to rest as they wait.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/khoo-teck-puat-hospital/KTPH 1.jpg",
+      "projects/khoo-teck-puat-hospital/KTPH 2.jpg",
+      "projects/khoo-teck-puat-hospital/KTPH 3.jpg"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Holiday Inn Express Katong",
+    "year": "2020",
+    "location": "Holiday Inn Express Katong",
+    "completion": "Completed",
+    "size": "-",
+    "imagePath": "projects/holiday-inn-express-katong",
+    "country": "Singapore",
+    "tags": [
+      "Decking"
+    ],
+    "sectors": [
+      "Commercial"
+    ],
+    "services": [
+      "exterior"
+    ],
+    "description": "At Holiday Inn Express Katong, guests can unwind and relax in the hotel's outdoor resting area, complete with composite decking in the warm and inviting pattern of Havana and Rum. The unique pattern adds a touch of visual interest to the space, while the rich, earthy tones of the Havana and Rum colors create a cozy and inviting atmosphere. Whether taking a break from a busy day of sightseeing or enjoying a morning cup of coffee, the outdoor resting area with its beautiful composite decking is the perfect spot to recharge and enjoy the fresh air.",
+    "products": [
+      "Calvary Composite"
+    ],
+    "images": [
+      "projects/holiday-inn-express-katong/IMG_2718.jpg",
+      "projects/holiday-inn-express-katong/IMG_2722.jpg",
+      "projects/holiday-inn-express-katong/IMG_2728.jpg",
+      "projects/holiday-inn-express-katong/IMG_2732 copy.jpg",
+      "projects/holiday-inn-express-katong/IMG_2751.jpg",
+      "projects/holiday-inn-express-katong/IMG_2768-Edit.jpg",
+      "projects/holiday-inn-express-katong/IMG_2787.jpg",
+      "projects/holiday-inn-express-katong/IMG_2791-Edit.jpg",
+      "projects/holiday-inn-express-katong/IMG_2794-Edit.jpg",
+      "projects/holiday-inn-express-katong/holiday-inn-express-singapore3.jpg"
+    ]
+  }
+]
