@@ -17,6 +17,12 @@ func main() {
 		return
 	}
 
+	// err = GenerateProductsJSON(csvData, "output/products.json")
+	// if err != nil {
+	// 	fmt.Println(err)
+	// 	return
+	// }
+
 	err = GenerateProjectsJSON(csvData, "output/projects.json")
 	if err != nil {
 		fmt.Println(err)

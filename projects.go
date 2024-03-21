@@ -8,20 +8,21 @@ import (
 )
 
 type Project struct {
-	Id          string   `json:"id"`
-	Name        string   `json:"name"`
-	Year        string   `json:"year"`
-	Location    string   `json:"location"`
-	Completion  string   `json:"completion"`
-	Size        string   `json:"size"`
-	ImagePath   string   `json:"imagePath"`
-	Country     string   `json:"country"`
-	Tags        []string `json:"tags"`
-	Sectors     []string `json:"sectors"`
-	Services    []string `json:"services"`
-	Description string   `json:"description"`
-	Products    []string `json:"products"`
-	Images      []string `json:"images"`
+	Id           string   `json:"id"`
+	Name         string   `json:"name"`
+	Year         string   `json:"year"`
+	Location     string   `json:"location"`
+	Completion   string   `json:"completion"`
+	Size         string   `json:"size"`
+	ImagePath    string   `json:"imagePath"`
+	Countries    []string `json:"countries"`
+	Country      string   `json:"country"`
+	Applications []string `json:"applications"`
+	Sectors      []string `json:"sectors"`
+	Services     []string `json:"services"`
+	Description  string   `json:"description"`
+	Products     []string `json:"products"`
+	Images       []string `json:"images"`
 }
 
 func GenerateProjectsJSON(csvData [][]string, output string) error {
@@ -51,12 +52,18 @@ func GenerateProjectsJSON(csvData [][]string, output string) error {
 				project.ImagePath = record
 			case "country":
 				project.Country = record
-			case "tags":
-				tags := strings.Split(record, ",")
-				for i, tag := range tags {
-					tags[i] = strings.TrimSpace(tag)
+			case "applications":
+				applications := strings.Split(record, ",")
+				for i, app := range applications {
+					applications[i] = strings.TrimSpace(app)
 				}
-				project.Tags = tags
+				project.Applications = applications
+			case "countries":
+				countries := strings.Split(record, ",")
+				for i, country := range countries {
+					countries[i] = strings.ToLower(strings.TrimSpace(country))
+				}
+				project.Countries = countries
 			case "sectors":
 				sectors := strings.Split(record, ",")
 				for i, sector := range sectors {
@@ -66,7 +73,7 @@ func GenerateProjectsJSON(csvData [][]string, output string) error {
 			case "services":
 				services := strings.Split(record, ",")
 				for i, service := range services {
-					services[i] = strings.TrimSpace(service)
+					services[i] = strings.ToLower(strings.TrimSpace(service))
 				}
 				project.Services = services
 			case "description":

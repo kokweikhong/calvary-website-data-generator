@@ -15,6 +15,7 @@ const (
 type Product struct {
 	Name        string   `json:"name"`
 	Title       string   `json:"title"`
+	Href        string   `json:"href"`
 	Countries   []string `json:"countries"`
 	Services    []string `json:"services"`
 	Thumbnail   string   `json:"thumbnail"`
@@ -44,6 +45,8 @@ func GenerateProductsJSON(csvData [][]string, output string) error {
 				product.Name = record
 			case "title":
 				product.Title = record
+			case "href":
+				product.Href = record
 			case "countries":
 				countries := strings.Split(record, ",")
 				for i, country := range countries {
